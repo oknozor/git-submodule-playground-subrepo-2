@@ -1,0 +1,1 @@
+# git-submodule-playground-subrepo-2
